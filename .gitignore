@@ -4,5 +4,11 @@ target/
 
 
 *.db
-
 *.log
+*.swh
+*.swj
+*.swk
+*.swl
+*.swm
+*.swo
+*.swp
