@@ -1,0 +1,14 @@
+F:\Учёба\7 семестр\Testing\EPAM_LABS\Laba3\bin\Debug\Lab3.exe.config
+F:\Учёба\7 семестр\Testing\EPAM_LABS\Laba3\bin\Debug\Lab3.exe
+F:\Учёба\7 семестр\Testing\EPAM_LABS\Laba3\bin\Debug\Lab3.pdb
+F:\Учёба\7 семестр\Testing\EPAM_LABS\Laba3\bin\Debug\nunit.framework.dll
+F:\Учёба\7 семестр\Testing\EPAM_LABS\Laba3\bin\Debug\nunit.framework.pdb
+F:\Учёба\7 семестр\Testing\EPAM_LABS\Laba3\bin\Debug\nunit.framework.xml
+F:\Учёба\7 семестр\Testing\EPAM_LABS\Laba3\obj\Debug\laba3.csproj.CoreCompileInputs.cache
+F:\Учёба\7 семестр\Testing\EPAM_LABS\Laba3\obj\Debug\laba3.csproj.CopyComplete
+F:\Учёба\7 семестр\Testing\EPAM_LABS\Laba3\obj\Debug\Lab3.exe
+F:\Учёба\7 семестр\Testing\EPAM_LABS\Laba3\obj\Debug\Lab3.pdb
+F:\Учёба\7 семестр\Testing\EPAM_LABS\Laba3\bin\Debug\NUnit3.TestAdapter.dll
+F:\Учёба\7 семестр\Testing\EPAM_LABS\Laba3\bin\Debug\NUnit3.TestAdapter.pdb
+F:\Учёба\7 семестр\Testing\EPAM_LABS\Laba3\bin\Debug\nunit.engine.dll
+F:\Учёба\7 семестр\Testing\EPAM_LABS\Laba3\bin\Debug\nunit.engine.api.dll
