@@ -2,6 +2,7 @@ bin/
 
 target/
 
+.vs/
 
 *.db
 *.log

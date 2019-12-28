@@ -20,7 +20,7 @@ namespace SeleniumWebdriver.Tests
         [Test]
         public void SearchShopItem()
         {
-            var destinationText = GetWebElement("//INPUT[@type='text'][@id='search_box_area']");
+            var destinationText = GetWebElement("//a[@rel='nofollow'][@title='Положить в корзину']");
             destinationText.SendKeys("телефон");
             destinationText.SendKeys("\t");
             destinationText.SendKeys("\r\n");

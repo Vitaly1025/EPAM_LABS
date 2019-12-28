@@ -29,10 +29,9 @@ namespace PageObjectLab.PageObjects
         {
             return driver.Url.Contains("#map_mogilev");
         }
-
-        public void GoToPage()
+ч        public void GoToPage()
         {
-            driver.Navigate().GoToUrl("https://e-mogilev.by/contact.php");
+                
         }
         
     }
