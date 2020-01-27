@@ -1,2 +1,7 @@
 # EPAM_LABS
-Subject of testing
+Epam QA Courses
+Include:
+-Work with WebDriver 
+-Page Object
+-Have some Test Cases
+-Frameworks for Testing
